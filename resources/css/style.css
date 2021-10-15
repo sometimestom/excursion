@@ -1,0 +1,49 @@
+html {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+/*HEADER*/
+
+.hook h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+/*LINKS*/
+
+.hook a, .end a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/*MAIN CONTENT*/
+
+.sec_con h1 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.sec_con p {
+    color: gray;
+    font-size: 21px;
+}
+
+/*CONCLUSION*/
+
+.end h1 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/*COPYRIGHT*/
+
+.trade {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
